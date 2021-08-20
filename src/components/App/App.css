@@ -1,0 +1,25 @@
+.page {
+  background-color: #fff;
+}
+
+.page__container {
+  max-width: 1601px;
+  min-width: 320px;
+  margin: 95px auto;
+  font-family: "Cuprum", "Arial", sans-serif;
+  color: #2b2a39;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@media screen and (max-width: 1614px) {
+  .page__container {
+    max-width: 90%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .page__container {
+    margin: 30px auto;
+  }
+}

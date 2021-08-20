@@ -1,0 +1,18 @@
+.faq {
+  max-width: 790px;
+  margin: 0 auto;
+}
+
+.faq__title {
+  max-width: 507px;
+  font-size: 30px;
+  line-height: 32px;
+  font-weight: 700;
+  margin: 0 0 38.31px;
+}
+
+@media screen and (max-width: 360px) {
+  .faq {
+    max-width: 90%;
+  }
+}

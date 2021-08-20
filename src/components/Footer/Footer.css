@@ -1,0 +1,49 @@
+.footer {
+  max-width: 782px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer__title {
+  font-size: 30px;
+  line-height: 32px;
+  color: #2b2a39;
+  font-weight: 700;
+  max-width: 547px;
+  margin: 0 0 21px;
+}
+
+.footer__video {
+  width: 100%;
+  height: 440px;
+}
+
+@media screen and (max-width: 610px) {
+  .footer__title {
+    font-size: 24px;
+    text-align: center;
+  }
+
+  .footer__video {
+    height: 340px;
+    width: 90%;
+    align-self: center;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .footer__title {
+    font-size: 19px;
+  }
+
+  .footer__video {
+    height: 270px;
+  }
+}
+
+@media screen and (max-width: 390px) {
+  .footer__title {
+    font-size: 16px;
+  }
+}
