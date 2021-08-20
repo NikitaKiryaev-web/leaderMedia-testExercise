@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/leadermedia-testexercise/static/css/main.e1a47834.chunk.css",
+    "main.js": "/leadermedia-testexercise/static/js/main.bf39badc.chunk.js",
+    "main.js.map": "/leadermedia-testexercise/static/js/main.bf39badc.chunk.js.map",
+    "runtime-main.js": "/leadermedia-testexercise/static/js/runtime-main.d8e1dd71.js",
+    "runtime-main.js.map": "/leadermedia-testexercise/static/js/runtime-main.d8e1dd71.js.map",
+    "static/js/2.2443aff3.chunk.js": "/leadermedia-testexercise/static/js/2.2443aff3.chunk.js",
+    "static/js/2.2443aff3.chunk.js.map": "/leadermedia-testexercise/static/js/2.2443aff3.chunk.js.map",
+    "index.html": "/leadermedia-testexercise/index.html",
+    "static/css/main.e1a47834.chunk.css.map": "/leadermedia-testexercise/static/css/main.e1a47834.chunk.css.map",
+    "static/js/2.2443aff3.chunk.js.LICENSE.txt": "/leadermedia-testexercise/static/js/2.2443aff3.chunk.js.LICENSE.txt",
+    "static/media/Question.css": "/leadermedia-testexercise/static/media/showButton.9b25af90.svg",
+    "static/media/rent-1.c5c80f5d.png": "/leadermedia-testexercise/static/media/rent-1.c5c80f5d.png",
+    "static/media/rent-2.c3484329.png": "/leadermedia-testexercise/static/media/rent-2.c3484329.png",
+    "static/media/rent-3.79e988b5.png": "/leadermedia-testexercise/static/media/rent-3.79e988b5.png",
+    "static/media/rent-4.3f63ec59.png": "/leadermedia-testexercise/static/media/rent-4.3f63ec59.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8e1dd71.js",
+    "static/js/2.2443aff3.chunk.js",
+    "static/css/main.e1a47834.chunk.css",
+    "static/js/main.bf39badc.chunk.js"
+  ]
+}
