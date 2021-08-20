@@ -84,3 +84,9 @@
     max-width: 90%;
   }
 }
+
+@media screen and (max-width: 350px) {
+  .question__title {
+    max-width: 90%;
+  }
+}
